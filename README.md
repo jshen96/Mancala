@@ -1,4 +1,5 @@
 # Mancala Game
+<img src = "https://github.com/jshen96/mancala/blob/master/mancalaDemo.png?raw=true">
 
 Mancala game. The computer player was written to act as a player capable of making gameplay decisions.
 This was written to participate in an AI Mancala tournament.
